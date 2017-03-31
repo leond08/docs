@@ -1,0 +1,8 @@
+In this MarkLogic Tutorial, we explain how to install MarkLogic in CentOs 7, and discover some of the basic features and functions
+
+![Install MarkLogic on CentOS 7](/docs/assets/install-marklogic-centos-7-title.png "Install MarkLogic on CentOS 7")
+
+MarkLogic is an enterprise-class NoSQL information store and search engine.
+MarkLogic Server is a powerful NoSQL database for harnessing your digital content base, complete with Enterprise features demanded by real world, mission-critical applications. MarkLogic enables you to build complex applications that interact with large volumes of content in JSON, XML, SGML, HTML, and other popular content formats, as well as binary formats. The unique architecture of MarkLogic ensures that your applications are both scalable and high-performance, delivering query results at search-engine speeds while providing transactional integrity over the underlying content repository. MarkLogic can be configured for a distributed environment, enabling you to scale your infrastructure through hardware expansion.
+
+This installation guide explains the procedures needed to install MarkLogic on your system. It is intended for a technical audience, specifically an IT staff with experience in JSON and XML. This document only explains how to install the software, not how to use the software. To learn how to get started using the software, see the rest of the MarkLogic documentation (available on docs.marklogic.com), including the following documents:
