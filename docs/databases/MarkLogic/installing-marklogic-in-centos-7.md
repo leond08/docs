@@ -1,0 +1,1 @@
+MarkLogic is an enterprise-class NoSQL information store and search engine
